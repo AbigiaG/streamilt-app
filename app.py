@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder
 
 # Load trained model (assuming a pre-trained model is available)
 # For demonstration, we're training a simple model in this code
