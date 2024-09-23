@@ -7,13 +7,21 @@ Financial inclusion ensures that individuals and businesses have access to affor
 
 # Table of Contents
 Dataset Overview
+
 Key Features
+
 Installation Instructions
+
 Exploratory Data Analysis (EDA)
+
 Model Training
+
 Streamlit Application
+
 Deployment
+
 Conclusion
+
 # Dataset Overview 📑
 The dataset is sourced from the Zindi platform and includes demographic and financial service usage data for individuals. The dataset's primary goal is to help identify the factors influencing bank account ownership, aiding in financial inclusion efforts.
 
